@@ -10,7 +10,7 @@
   "author": "Johan Higuita",
   "license": "ISC",
   "dependencies": {
-    "amqplib": "^0.5.6",
+    "amqplib": "^0.8.0",
     "body-parser": "^1.19.0",
     "express": "^4.17.1"
   },

@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: 'Express App',
+      name: 'Express-App',
       script: 'server.js',
       instances: 2,
       autorestart: true,
